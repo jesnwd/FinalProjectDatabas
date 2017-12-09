@@ -68,4 +68,4 @@ PASSWORD - varchar(45). holds hashed user password
 https://youtu.be/KQZuJch3p14
 
 #ERD
-
+ERD.png
